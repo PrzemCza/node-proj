@@ -9,7 +9,7 @@ export default function Home() {
           <h1 className="tracking-tight font-bold text-5xl text-orange-400">Przemysław Czajka</h1>
           <p className="text-3xl text-center">Nr albumu: 119752</p>
 
-          <Link href="/nowa/page.tsx" className="text-xs font-bold">Przejdź do drugiej strony</Link>
+          <Link href="/nowa/page" className="text-xs font-bold">Przejdź do drugiej strony</Link>
         </div>npm run build
       </div>
   );
