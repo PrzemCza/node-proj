@@ -1,5 +1,5 @@
 
-export default function Nowa() {
+export default function nowa() {
 
     const title = "Inna strona";
 
