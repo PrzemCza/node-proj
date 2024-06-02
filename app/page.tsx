@@ -10,7 +10,7 @@ export default function Home() {
           <p className="text-3xl text-center">Nr albumu: 119752</p>
 
           <Link href="/nowa" className="text-xs font-bold">Przejdź do drugiej strony</Link>
-        </div>npm run build
+        </div>
       </div>
   );
 }
